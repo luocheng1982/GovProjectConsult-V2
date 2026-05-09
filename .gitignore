@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual Environment
+venv/
+venv312/
+.venv/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Data (知识库、向量数据库等)
+data/
+logs/
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backend specific
+backend/__pycache__/
+backend/*.pyc
+start_app.bat
+
+# Frontend build
+frontend/dist/
+frontend/.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Test files
+test_*.py
+*_test.py
+
+# Output files
+output/
+
+# Uninstaller
+unins000.dat
+unins000.exe
+
+# Package lock (if using npm directly)
+package-lock.json
