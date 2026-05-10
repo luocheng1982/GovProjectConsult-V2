@@ -106,8 +106,8 @@ npm run dev
 
 ```env
 OPENAI_API_KEY=your_api_key_here
-OPENAI_BASE_URL=https://api.openai.com/v1
-MODEL_NAME=gpt-4o-mini
+OPENAI_BASE_URL=ttps://api.deepseek.com/v1
+MODEL_NAME=deepseek-v4-flash
 ```
 
 ## 可补充内容（未上传）
